@@ -1,0 +1,88 @@
+* {
+    border-radius: 5px;
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    padding: 24px 24px 24px 24px;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    padding: 24px 54px 24px 54px;
+    font-size: 20px;
+    display: flex;
+    font-weight: 100;
+background-color: azure;
+    gap: 30px;
+}
+
+.first {
+
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+background-color: bisque;
+    font-weight: 100;
+    padding: 24px 54px 24px 54px;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    font-weight: 100;
+    background-color: bisque;
+
+    padding: 24px 54px 24px 54px;
+
+}
+
+.main3 {
+    font-size: 20px;
+    padding: 24px 54px 24px 54px;
+
+    display: flex;
+background-color: bisque;
+    gap: 15px;
+    font-weight: 100;
+}
+
+.main4 {
+    font-size: 20px;
+    padding: 24px 54px 24px 54px;
+background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    font-weight: 100;
+
+}
+
+.main5 {
+
+    display: flex;
+    font-size: 20px;
+    padding: 24px 54px 24px 54px;
+    gap: 15px;
+    font-weight: 100;
+    background-color: bisque;
+}
+
+.foot {
+    display: flex;
+    padding: 24px 154px 24px;
+    font-weight: 400;
+
+
+
+}
+.button{
+    color: blueviolet;
+}
